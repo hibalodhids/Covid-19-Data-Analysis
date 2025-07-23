@@ -2,6 +2,13 @@
 
 This project analyzes the COVID-19 data of Pakistan using Python, NumPy, Pandas, Seaborn, and Matplotlib. It performs data cleaning, calculates total and average values for key statistics, and visualizes provincial-level recovery data.
 
+## 👨‍💻 Developed By
+
+**👩‍🎓 Hiba**  
+_Data Science Student_  
+_Sindh University – Department of Data Science_  
+
+
 ## 📊 Project Features
 
 - Reads and cleans CSV data
@@ -33,7 +40,3 @@ Average Confirmed Cases: 434749.0
 Average Recoveries: 423635.0
 Average Deaths: 9300.0
 
-👩‍🎓 About Me
-Hiba
-Data Science student
-University student passionate about data analysis and Python development.
